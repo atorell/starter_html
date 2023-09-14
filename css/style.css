@@ -1,0 +1,48 @@
+/* #skip{
+	position: absolute;
+	left: -500px;
+}
+
+#skip:focus{
+	left: 200px;
+} */
+/* add this in later
+<link rel="stylesheet" href="css/style.css">
+body{
+    background-color: #FCC9B5;
+}
+nav{
+    border: 20px solid black;
+}
+li{
+    display: inline-block;
+    height: 50px;
+    font-size: larger;
+    color: #4f714f;
+}
+h1 {
+    color: black;
+    font-family: Times;
+    font-size: larger;
+    font-style: normal;
+    text-align: center;
+}
+h2 {
+    color: black;
+    font-family: Times;
+    font-size: larger;
+    font-style: normal;
+}
+p {
+    line-height: 50px;
+    margin-left: 50px;
+}
+img {
+    margin: 20px;
+    width: 50%;
+    border: 5px solid #FAAF90;
+    padding: 10px;
+    border-top-right-radius: 30px;
+} */
+
+
